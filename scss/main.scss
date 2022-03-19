@@ -8,9 +8,11 @@
     max-width: 1300px;
     margin: 0 auto;
 }
-header{
+
+header {
     padding: 0 10rem;
 }
+
 .navbar {
     display: flex;
     align-items: center;
@@ -71,9 +73,11 @@ header{
     letter-spacing: 0.02em;
     color: #000000;
 }
-.header-btn_group{
+
+.header-btn_group {
     margin-right: -45px;
 }
+
 .header-logo {
     margin-left: 37px;
 }
@@ -346,7 +350,7 @@ header{
     margin-left: 70px;
 }
 
-.footer-rigth__text{
+.footer-rigth__text {
     width: 190px;
     font-weight: 400;
     font-size: 13px;
@@ -356,15 +360,16 @@ header{
 }
 
 
-.footer-center{
+.footer-center {
     margin-left: 290px;
     line-height: 30px;
 }
 
-.footer-list{
+.footer-list {
     list-style-type: none;
 }
-.footer-img__box{
+
+.footer-img__box {
     margin-left: 500px;
     margin-top: -100px;
 }
